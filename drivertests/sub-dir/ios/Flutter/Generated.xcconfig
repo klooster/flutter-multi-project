@@ -1,0 +1,9 @@
+// This is a generated file; do not edit or check into version control.
+FLUTTER_ROOT=/Users/jooseplall/tools/flutter
+FLUTTER_APPLICATION_PATH=/Users/jooseplall/development/drivertests/sub-dir
+FLUTTER_TARGET=/Users/jooseplall/development/drivertests/sub-dir/test_driver/main.dart
+FLUTTER_BUILD_DIR=build
+SYMROOT=${SOURCE_ROOT}/../build/ios
+FLUTTER_FRAMEWORK_DIR=/Users/jooseplall/tools/flutter/bin/cache/artifacts/engine/ios
+FLUTTER_BUILD_NAME=1.0.0
+FLUTTER_BUILD_NUMBER=1
